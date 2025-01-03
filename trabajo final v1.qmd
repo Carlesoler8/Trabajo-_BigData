@@ -14,28 +14,21 @@ author:
   affiliation: Universitat de València
   affiliation-url: https://www.uv.es
 
-#- fecha de procesado del documento
-#date: "`r format(Sys.time(), '%d %B, %Y')`"
-#date: today
-#date-format: short
+
 date: 2024-12-30
 
-#- categorías, palabras clave
 categories: [trabajo BigData, agricultura]  
 
 format:
   html:
-    theme: flatly  
+    theme: journal  
     highlight-style: a11y  
     page-layout: full  
     fontcolor: black
-
-# title-block-banner: "imagenes/mapita.png"  #- {true, false, "#FFDDFF",  "image.jpg"}
-# title-block-style: default #- {default, plain, none}
-# tb se puede especificar el color del texto dentro del banner
+title-block-style: default #- {default, plain, none}
 title-block-banner-color: green
 
-css: assets/my_styles.css           #- si queréis tunear con CSS
+css: assets/my_styles.css         
 ---
 
 ## Introducción
