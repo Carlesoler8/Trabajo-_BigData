@@ -1,0 +1,13 @@
+project:
+  title: "trabajo final v1"
+format:
+  html:
+    execute:
+      echo: true        # Asegúrate de que los chunks se muestren correctamente
+      warning: false    # Oculta advertencias
+      message: false    # Oculta mensajes innecesarios
+    code-fold: true      # Habilita plegar/expandir código
+
+
+editor: visual
+
