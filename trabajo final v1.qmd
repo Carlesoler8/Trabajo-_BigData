@@ -25,6 +25,7 @@ format:
     highlight-style: a11y  
     page-layout: full  
     fontcolor: black
+    backgroundcolor: "#98FB98"
 title-block-style: default #- {default, plain, none}
 title-block-banner-color: green
 
